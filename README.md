@@ -3,6 +3,6 @@ A repository that contains CMMC libraries and how to use them for create somethi
 
 # Applications
 
-* CMMC MQTT Connector
+* [CMMC MQTT Connector](https://github.com/cmmakerclub/MQTT-Connector)
 * CMMC MQTT Devices
 * CMMC NETPIE Client
