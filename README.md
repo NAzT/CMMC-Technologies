@@ -6,3 +6,7 @@ A repository that contains CMMC libraries and how to use them for create somethi
 * [CMMC MQTT Connector](https://github.com/cmmakerclub/MQTT-Connector)
 * CMMC MQTT Devices
 * CMMC NETPIE Client
+* CMMC MQTT Client
+* CMMC Influx Utils
+* CMMC NETPIE-AUTH
+* CMMC Telegraf Utils
