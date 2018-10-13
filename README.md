@@ -8,5 +8,5 @@ A repository that contains CMMC libraries and how to use them for create somethi
 * [CMMC NETPIE Client Basic](https://github.com/cmmakerclub/netpie-client-basic)
 * [CMMC MQTT Client](https://github.com/cmmakerclub/CMMC-NETPIE-MQTT-Client)
 * [CMMC Influx Utils](https://github.com/cmmakerclub/influx-utils)
-* CMMC NETPIE-AUTH
+* [CMMC NETPIE-AUTH](https://github.com/cmmakerclub/netpie-auth)
 * CMMC Telegraf Utils
