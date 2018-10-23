@@ -10,6 +10,6 @@ A repository that contains CMMC libraries and how to use them for create somethi
 * [CMMC Influx Utils](https://github.com/cmmakerclub/influx-utils)
 * [CMMC NETPIE-AUTH](https://github.com/cmmakerclub/netpie-auth)
 * [CMMC Telegraf Utils](https://github.com/cmmakerclub/cmmc-telegraf)
-* [CMMC HAP.js] (https://github.com/cmmakerclub/CMMC-HAP-DEMO)
+* [CMMC HAP.js](https://github.com/cmmakerclub/CMMC-HAP-DEMO)
 * CMMC Legend
 * CMMC HAP Accessories
