@@ -15,3 +15,4 @@ A repository that contains CMMC libraries and how to use them for create somethi
 * [CMMC HAP Accessories](https://github.com/cmmakerclub/cmmc-accessories)
 * [CMMC tongsmartmeter](https://github.com/cmmakerclub/tongsmartmeter)
 * [CMMC esp8266_acs712](https://github.com/cmmakerclub/esp8266_acs712)
+* [CMMC MakerAsia_Zeui_demo](https://github.com/cmmakerclub/MakerAsia_Zeui_demo)
